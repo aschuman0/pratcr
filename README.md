@@ -1,4 +1,4 @@
-# pratcr - a simple instrument practice patch
+# pratcr - simple instrument practice
 0.5b
 
 ### Requires
@@ -13,3 +13,4 @@
 - Variable speed audio playback
 - Recording and playback from audio input
 - Better interface
+- Better Docs
