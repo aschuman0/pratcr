@@ -1,15 +1,14 @@
-*** pratcr - a simple instrument practice patch
+# pratcr - a simple instrument practice patch
 0.5b
 
-Aaron Schuman
-hello@aschuman.net
-http://aschuman.net
+### Requires
+- [Max6 Runtime](http://cycling74.com/max/runtime/)
 
-** Features:
+### Features:
 - Metronome (audio and visual)
 - Audio passthrough from interface input (mono).
 
-TODO:
+### TODO:
 - Audio playback
 - Variable speed audio playback
 - Recording and playback from audio input
